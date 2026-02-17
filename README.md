@@ -24,14 +24,14 @@ This project was built to demonstrate **Web Automation**, **Data Processing**, a
 
 ## 📸 Execution Evidence
 
-### 1. Terminal Output (Translation & Analysis)
-![Terminal Output](screenshots/terminal_output.png)
+### 1. Terminal Output (Translation & Analysis) (Local Run)
+![Terminal Output](demo_photos/local.png)
 
 ### 2. Parallel Execution on BrowserStack (5 Threads)
-![BrowserStack Dashboard](screenshots/browserstack_parallel.png)
+![BrowserStack Dashboard](demo_photos/browserstack.png)
 
 ### 3. Project Structure & Downloaded Images
-![Project Structure](screenshots/project_structure.png)
+![Project Structure](demo_photos/image.png)
 
 ---
 ## 🧪 Architecture Diagram
