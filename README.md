@@ -21,6 +21,19 @@ This project was built to demonstrate **Web Automation**, **Data Processing**, a
 4.  **Cross-Browser Testing:** Executes the script in parallel across 5 different browser/OS combinations using **BrowserStack**.
 
 ---
+
+## 📸 Execution Evidence
+
+### 1. Terminal Output (Translation & Analysis)
+![Terminal Output](screenshots/terminal_output.png)
+
+### 2. Parallel Execution on BrowserStack (5 Threads)
+![BrowserStack Dashboard](screenshots/browserstack_parallel.png)
+
+### 3. Project Structure & Downloaded Images
+![Project Structure](screenshots/project_structure.png)
+
+---
 ## 🧪 Architecture Diagram
 ```mermaid
     graph TD
