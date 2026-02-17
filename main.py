@@ -13,8 +13,9 @@ from selenium.webdriver.support import expected_conditions as EC
 
 # --- CONFIGURATION ---
 # BrowserStack Credentials
-BS_USER = 'YOUR_USERNAME_HERE'
-BS_KEY = 'YOUR_ACCESS_KEY_HERE'
+BS_USER = 'kishorsolanki_Z60jRk'
+BS_KEY = 'Bwth3KTyi9cwuLRg9Q5t'
+
 
 
 TARGET_URL = "https://elpais.com/opinion/"
